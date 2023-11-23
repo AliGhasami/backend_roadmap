@@ -1,24 +1,30 @@
 # backend_roadmap
-all database and diffrent sql and nosql
-sqllite
-mysql 
-postgresql
-monogdb 
-redis 
-mariadb 
-scaila db 
-docker and kobernitze 
-network - vpn 
-django
-laravel 
-fastapi 
-rest api 
-caching and ways to caching 
-Access level and permission 
-dac 
-rbac
-linux 
-jobs and quee 
-web scraping 
-
-
+- all database and diffrent sql and nosql
+- sqllite
+- mysql 
+- postgresql
+- monogdb 
+- redis 
+- mariadb 
+- scaila db 
+- docker and kobernitze 
+- network - vpn 
+- django
+- laravel 
+- fastapi 
+- rest api
+- node js
+- caching and ways to caching 
+- Access level and permission 
+- dac 
+- rbac
+- linux 
+- jobs and quee 
+- web scraping
+- encript and decript
+- hash
+- sh256
+- rsa 
+- block chaine
+- all program langue for server side and benifet
+-  
