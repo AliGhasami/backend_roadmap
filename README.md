@@ -27,5 +27,9 @@
 - rsa 
 - block chaine
 - all program langue for server side and benifet
--  commincation protocol - http 1 - htp 2 - sse - tcp - udp
--  iso network layer
+- commincation protocol - http 1 - htp 2 - sse - tcp - udp
+- iso network layer
+- rest api - restful api
+- Authentication
+1- JWT
+     
