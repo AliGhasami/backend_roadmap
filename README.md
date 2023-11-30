@@ -38,5 +38,7 @@
 2- litespeed
 3-nginx
 4-etc ...
+  email protocol
+    Mbox – Maildir – POP3 – IMAP4
 
      
