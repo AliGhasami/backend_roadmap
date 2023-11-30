@@ -32,4 +32,10 @@
 - rest api - restful api
 - Authentication
 1- JWT
+- Web Server
+1-apache
+2- litespeed
+3-nginx
+4-etc ...
+
      
