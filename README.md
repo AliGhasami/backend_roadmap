@@ -6,7 +6,8 @@
 - monogdb 
 - redis 
 - mariadb 
-- scaila db 
+- scaila db
+- MariaDB – MySql – Oracle – IBM DB2 – MS Sql Server – PostgreSql – Sqllite – Informix Dynamic Serve
 - docker and kobernitze 
 - network - vpn 
 - django
