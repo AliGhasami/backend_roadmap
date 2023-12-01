@@ -22,6 +22,8 @@
 - linux 
 - jobs and quee 
 - web scraping
+- Encoding and Decoding
+1- base64
 - encript and decript
 - hash
 - sh256
