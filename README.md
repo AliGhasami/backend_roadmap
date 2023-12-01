@@ -31,15 +31,16 @@
 - commincation protocol - http 1 - htp 2 - sse - tcp - udp
 - iso network layer
 - rest api - restful api
-- Authentication
-1- JWT
+- Authentication restful api
+1 - Basic Authentication
+2 - Api key
+3- OAuth 1 - OAuth 2
+4-json web token (JWT)
 - Web Server
 1-apache
 2- litespeed
 3-nginx
 4-etc ...
-  email protocol
-    Mbox – Maildir – POP3 – IMAP4
+-  email protocol
+Mbox – Maildir – POP3 – IMAP4
 - micro services   
-
-     
