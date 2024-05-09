@@ -8,6 +8,10 @@
 - mariadb 
 - scaila db
 - MariaDB – MySql – Oracle – IBM DB2 – MS Sql Server – PostgreSql – Sqllite – Informix Dynamic Serve
+- cassabdra
+- elastic search
+- ms sql server
+- 
 - docker and kobernitze 
 - network - vpn 
 - django
