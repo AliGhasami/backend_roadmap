@@ -11,7 +11,10 @@
 - cassabdra
 - elastic search
 - ms sql server
-- 
+- ObjectStore
+- Wakanda
+- Neo4J
+- Datastax Enterprise Graph
 - docker and kobernitze 
 - network - vpn 
 - django
